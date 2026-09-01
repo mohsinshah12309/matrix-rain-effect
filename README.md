@@ -1,13 +1,36 @@
-# Matrix Rain Effect
+# 🚀 Matrix Digital Rain Effect
 
-An interactive web development project built with HTML5, CSS3, and JavaScript.
+> A Matrix digital code rain canvas animation generated using HTML5 Canvas API.
 
-## 🚀 Live Demo & Usage
-Open `index.html` in your web browser to run the project.
+---
+
+## 📌 Project Overview
+**Matrix Digital Rain Effect** is a frontend web development project designed to showcase core web concepts, DOM manipulation, and responsive UI design. Built using vanilla web technologies without external frameworks.
+
+## ✨ Key Features
+- 🎨 **Modern UI/UX**: Clean, responsive layout styled with CSS3.
+- ⚡ **Interactive Experience**: Implemented using pure Vanilla JavaScript (ES6+).
+- 📱 **Cross-Browser Compatible**: Works seamlessly across mobile, tablet, and desktop viewports.
 
 ## 🛠️ Tech Stack
-- HTML5
-- CSS3
-- JavaScript (Vanilla ES6+)
+| Component | Technology |
+|---|---|
+| **Structure** | HTML5 (`index.html`) |
+| **Styling** | CSS3 (`style.css`), Flexbox / Grid |
+| **Scripting** | JavaScript (ES6+, DOM Manipulation) |
 
-Developed by [mohsinshah12309](https://github.com/mohsinshah12309)
+## 🚀 How to Run Locally
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/mohsinshah12309/matrix-rain-effect.git
+   ```
+
+2. **Open the project**:
+   - Simply double click `index.html` to open it in your default web browser, or use VS Code's **Live Server** extension.
+
+---
+
+<div align="center">
+  Developed with ❤️ by <a href="https://github.com/mohsinshah12309"><b>Mohsin Ali Shah</b></a>
+</div>
